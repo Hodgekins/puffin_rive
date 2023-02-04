@@ -1,0 +1,5 @@
+name: Puffin Rive
+type: module
+description: Rive functionality
+package: Custom
+core_version_requirement: ^9 || ^10

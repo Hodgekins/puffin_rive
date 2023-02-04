@@ -1,0 +1,5 @@
+rive:
+  version: 1.x
+  js:
+    node_modules/@rive-app/canvas/rive.js: {}
+    js/rive.js: {}
